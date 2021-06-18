@@ -1,0 +1,10 @@
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\bin\Debug\lab_1_AI_NETforms.exe.config
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\bin\Debug\lab_1_AI_NETforms.exe
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\bin\Debug\lab_1_AI_NETforms.pdb
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.csprojAssemblyReference.cache
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.Form1.resources
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.Properties.Resources.resources
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.csproj.GenerateResource.cache
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.exe
+C:\Users\Alexey\source\repos\lab_1_AI_NETforms\lab_1_AI_NETforms\obj\Debug\lab_1_AI_NETforms.pdb
