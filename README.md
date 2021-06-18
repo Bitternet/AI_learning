@@ -1,4 +1,4 @@
-# Perceptron(1-Layer)
+# Perceptron
 
 Language: C#
 
